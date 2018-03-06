@@ -56,4 +56,4 @@ tags: 2017
 
 ### 지난 발표
 
-[2017 여름방학 발표](https://gist.github.com/5pecia1/5aa43701e2b97d7fd5980f90b95f6680)
+[2017 - 1 발표](/conference/conference/2017/08/31/2017-1-DBCon.html)
