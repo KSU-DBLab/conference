@@ -3,7 +3,7 @@ layout: post
 title:  "2017-1-DBCon"
 date:   2017-10-30 09:00:00
 author: 5pecia1
-categories: 2017
+categories: conference
 tags: 2017
 ---
 

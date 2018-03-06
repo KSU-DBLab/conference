@@ -43,8 +43,8 @@ disqus_shortname: bencentra
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: 5pecia1
-    desc: "#2012 sol"
+  - cat: conference
+    desc: "conference"
 
 #   - cat: dummy
 #     desc: "Just some placeholder posts, lorem ipsum and the rest."
