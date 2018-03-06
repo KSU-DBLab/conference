@@ -16,7 +16,7 @@ name: KyungsungUniv-CS-DBLab
 baseurl: "/conference/" # the subpath of your site, e.g. /blog/
 url: "https://kyungsunguniv-cs-dblab.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
-logo: "assets/logo.png"
+logo: "assets/logo.jpg"
 
 # Build settings
 markdown: kramdown
@@ -80,7 +80,7 @@ protocols:
     fb_image_height: 605
     fb_image_type: "image/png"
 
-    twitter_image: "assets/logo.png"
+    twitter_image: "assets/logo.jpg"
 
     os_repo: "https://github.com/RichardLitt/wordhoardpress.com"
     os_rcs_type: "git"
