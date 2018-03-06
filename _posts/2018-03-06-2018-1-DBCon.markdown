@@ -14,29 +14,29 @@ tags: 2018
 발표는 **7분 20초 까지** 할 수있고 시간이 지나면 **강제로 끝냅니다**.
 
 
-<table border="0">
+<table border="0" style="width: inherit;">
   <tr>
-    <th style="text-align:right">
+    <th style="border-bottom-width: 0px; min-width: 100px;">
       참가신청
     </th>
-    <td>
+    <td style="border-bottom-width: 0px; min-width: 100px;">
       발표 시작 전 까지
     </td>
   </tr>
   <tr>
-    <th style="text-align:right">
+    <th style="border-bottom-width: 0px; min-width: 100px;">
      발표
     </th>
-    <td>
+    <td style="border-bottom-width: 0px; min-width: 100px;">
       2018. 3. 16(금)<br>
       18:10 ~ 20:00
     </td>
   </tr>
   <tr>
-    <th style="text-align:right">
+    <th style="border-bottom-width: 0px; min-width: 100px;">
       장소
     </th>
-    <td>
+    <td style="border-bottom-width: 0px; min-width: 100px;">
       8호관 319호
     </td>
   </tr>
