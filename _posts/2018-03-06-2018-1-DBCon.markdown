@@ -16,7 +16,7 @@ tags: 2018
 
 <table border="0">
   <tr>
-    <th>
+    <th style="text-align:right">
       참가신청
     </th>
     <td>
@@ -24,7 +24,7 @@ tags: 2018
     </td>
   </tr>
   <tr>
-    <th>
+    <th style="text-align:right">
      발표
     </th>
     <td>
@@ -33,7 +33,7 @@ tags: 2018
     </td>
   </tr>
   <tr>
-    <th>
+    <th style="text-align:right">
       장소
     </th>
     <td>
