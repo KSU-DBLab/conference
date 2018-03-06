@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "2018-1-DBCon"
+date:   2018-03-06 19:48:00
+author: 5pecia1
+categories: conference
+tags: 2018
+---
+
+## About 
+
+랩원 모두가 이번 1학기와 여름방학 때 했던 것을 소개하는 컨퍼런스 입니다!
+
+발표는 **7분 20초 까지** 할 수있고 시간이 지나면 **강제로 끝냅니다**.
+
+
+<table border="0">
+  <tr>
+    <th>
+      참가신청
+    </th>
+    <td>
+      발표 시작 전 까지
+    </td>
+  </tr>
+  <tr>
+    <th>
+     발표
+    </th>
+    <td>
+      2018. 3. 16(금)<br>
+      18:10 ~ 20:00
+    </td>
+  </tr>
+  <tr>
+    <th>
+      장소
+    </th>
+    <td>
+      8호관 319호
+    </td>
+  </tr>
+</table>
+
+## Registration
+
+
+## Agenda
+
+발표당일 날 공개 됩니다!
