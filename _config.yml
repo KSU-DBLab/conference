@@ -36,7 +36,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: kang_sol
+disqus_shortname: 5pecia1
 
 # Google analytics
 ga_tracking_id: "UA-115161414-1"
