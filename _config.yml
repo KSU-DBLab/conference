@@ -36,7 +36,7 @@ paginate_path: "/page:num/"
 #     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: 5pecia1
+disqus_shortname: ksu-dblab-con
 
 # Google analytics
 ga_tracking_id: "UA-115161414-1"
