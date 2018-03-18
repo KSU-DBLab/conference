@@ -28,7 +28,7 @@ tags: 2018
      발표
     </th>
     <td style="border-bottom-width: 0px; min-width: 100px;">
-      2018. 3. 16(금)<br>
+      미정<br>
       18:10 ~ 20:00
     </td>
   </tr>
